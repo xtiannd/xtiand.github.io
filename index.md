@@ -21,7 +21,7 @@ Conducted a security audit by implementing the NIST CSF, establishing an audit s
 
 [Controls and Compliance Checklist](https://github.com/xtiannd/xtiannd.github.io/blob/main/Controls%20and%20compliance%20checklist.pdf)
 
-# Analyze Network Layer Communication
+# Analyzed Network Layer Communication
 
 Several customers of clients reported that they were not able to access the client company website www.yummyrecipesforme.com, and saw the error “destination port unreachable” after waiting for the page to load. 
 
