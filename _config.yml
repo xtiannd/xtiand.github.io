@@ -1,5 +1,5 @@
-title: Christian's Portfolio of Cybersecurity Projects
-description: To showcase my skills to my future employer.
+title: Security Audit for Botium Toys
+description: •	Conducted a security audit by implementing the NIST CSF, establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. Implemented PCI DSS, GDPR, SOC type 1, and SOC type2 compliances.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
