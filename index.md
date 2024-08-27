@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](Google Cybersecurity Certificate .pdf)
+!(Google Cybersecurity Certificate .pdf)
 
 
 ### Definition lists can be used with HTML syntax.
