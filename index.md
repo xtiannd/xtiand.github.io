@@ -68,7 +68,8 @@ Practiced writing Python code: Assign Python Variables, create a conditional sta
 [Develop An Algorithm](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Develop%20an%20algorithm.pdf)
 [Create Another Algorithm](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Create%20another%20algorithm.pdf)
 [Create Loops](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Create%20loops.pdf)
-[Define And Call A Function](
+[Define And Call A Function](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Define%20and%20call%20a%20function.pdf)
+[Create More Functions](
 
 
 
