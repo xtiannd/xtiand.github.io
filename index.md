@@ -77,6 +77,12 @@ Practiced writing Python code: Assign Python Variables, create a conditional sta
 
 [Debug Python Code](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar%20-%20Debug%20Python%20code.pdf)
 
+# Splunk 
+
+Performed a query with Splunk: Upload sample log data, Search through indexed data, evaluate search results, identify different data sources, Locate failed SSH login(s) for the root account.
+
+
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
