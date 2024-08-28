@@ -43,6 +43,8 @@ Applied filters to SQL queries to get specific information on login attempts and
 
 Analyzed a vulnerable system for a small business and used NIST SP 800-30 Rev. 1 to guide the risk analysis of the information system, proposed a remediation strategy such as Principle of least privilege, Defense in depth, MFA, AAA framework.
 
+[Vulnerable Assessment Report](https://github.com/xtiannd/xtiannd.github.io/blob/main/Vulnerability%20assessment%20report%20.pdf)
+
 
 
 
