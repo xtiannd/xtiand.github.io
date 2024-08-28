@@ -51,6 +51,11 @@ Documented incidents with an incident handler's journal: Documented a ransomware
 
 [Completed Incident Handler's Journal](https://github.com/xtiannd/xtiannd.github.io/blob/main/Completed%20incident%20handler's%20journal%20.pdf)
 
+# PASTA Threat Model Framework
+
+Applied the PASTA threat model framework to launch a sneaker shopping app: Compliance with PCI-DSS, Defined technologies used by the app (API, PKI, SHA-256, SQL), Used data flow diagram to decompose the app, Threat Analysis (Injection and Session hijacking), Vulnerability Analysis (Lack of prepared statements, Broken API token), Used Attack Tree Diagram for Attack Modeling, Risk Analysis and Impact (SHA-256, Incident Response Procedures, Password Policy, Principle of Least Privilege).
+
+[PASTA Worksheet](
 
 
 
