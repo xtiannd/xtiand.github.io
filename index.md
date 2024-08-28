@@ -37,7 +37,8 @@ Used Linux commands to changed multiple permissions to match the level of author
 
 Applied filters to SQL queries to get specific information on login attempts and employee machines. I used two different tables, log_in_attempts and employees. I used the AND, OR, and NOT operators to filter for the specific information needed for each task. I also used LIKE and the percentage sign (%) wildcard to filter for patterns.
 
-[Apply Filters to SQL Queries](
+[Apply Filters to SQL Queries](https://github.com/xtiannd/xtiannd.github.io/blob/main/Apply%20filters%20to%20SQL%20queries%20.pdf)
+
 
 
 
