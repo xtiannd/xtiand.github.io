@@ -117,7 +117,7 @@ tutorialdata.zip
 
 ### Perform A Basic Search
 
-![image](https://github.com/xtiannd/xtiannd.github.io/blob/main/cc9oz1SmRCK3pfm87DcKZQ_dcda39fb68f147469c41a6b9fcb3cbf1_CS_SRQ-006_homepage-with-labels.png)
+![Alt text](https://github.com/xtiannd/xtiannd.github.io/blob/main/cc9oz1SmRCK3pfm87DcKZQ_dcda39fb68f147469c41a6b9fcb3cbf1_CS_SRQ-006_homepage-with-labels.png)
 
 1. Navigate to Splunk Home. (To return to Splunk Home, click the Splunk Cloud logo on the Splunk Cloud page.)
 
@@ -131,13 +131,13 @@ This search term specifies the index. An index is a repository for data. Here, t
 
 1. Click the search button. Note that the search button is represented by the magnifying glass icon. Your search should retrieve thousands of events.
 
-![image](https://github.com/xtiannd/xtiannd.github.io/blob/main/t-w-qDeCQmOMDMXZRUz8Lw_8ceeb7ac61d7471c9ead6a03d17e5cf1_CS_SRQ-006_search.png)
+![Alt Text](https://github.com/xtiannd/xtiannd.github.io/blob/main/t-w-qDeCQmOMDMXZRUz8Lw_8ceeb7ac61d7471c9ead6a03d17e5cf1_CS_SRQ-006_search.png)
 
 ### Evaluate The Fields 
 
 For each event the fields are host, source, and sourcetype. Under SELECTED FIELDS, examine the same fields.
 
-![image](https://github.com/xtiannd/xtiannd.github.io/blob/main/b-LM5OKBQRecaBKlhE8u4A_10aa13c3ffe64074b8fc019a33cd2cf1_8I5gN09dzpvkvx9AjDfkxZmJ62cOmcJyN4F-fxT0XfU3fHWId7Sf5HLokjN5n8vdQSxBLPvzQmk24uXoj-5T_Egb2EwAgAhY4dpRhRvoUy5D0x7gcfLb7SMpx9aBWso7RW8xG3tl0Jge_VMBuesFp7bPkB3dCqBm1N9Z36HCce21zwEvvdNyxNfg.png)
+![Alt Text](https://github.com/xtiannd/xtiannd.github.io/blob/main/b-LM5OKBQRecaBKlhE8u4A_10aa13c3ffe64074b8fc019a33cd2cf1_8I5gN09dzpvkvx9AjDfkxZmJ62cOmcJyN4F-fxT0XfU3fHWId7Sf5HLokjN5n8vdQSxBLPvzQmk24uXoj-5T_Egb2EwAgAhY4dpRhRvoUy5D0x7gcfLb7SMpx9aBWso7RW8xG3tl0Jge_VMBuesFp7bPkB3dCqBm1N9Z36HCce21zwEvvdNyxNfg.png)
 
 Examine the field values by clicking on the field under SELECTED FIELDS. You should observe the following:
 
