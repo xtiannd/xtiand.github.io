@@ -2,14 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 ## Professional Statement
 
 My name is Christian. I am a highly motivated and detail-oriented technical support and cybersecurity professional with a passion for protecting sensitive data and mitigating cyber threats while providing top tier customer support. I am committed to safeguarding company data and maintaining the integrity of digital infrastructures in a forward-thinking organization. I am passionate about staying ahead of the curve in the evolving landscape of cyber threats. I am very eager to bring my knowledge of encryption algorithms and intrusion detection systems to a dynamic cybersecurity team.
