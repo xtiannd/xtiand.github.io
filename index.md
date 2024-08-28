@@ -81,7 +81,7 @@ Practiced writing Python code: Assign Python Variables, create a conditional sta
 
 Performed a query with Splunk: Upload sample log data, Search through indexed data, evaluate search results, identify different data sources, Locate failed SSH login(s) for the root account.
 
-### Upload Sample Log Data
+### Upload Data Into Splunk
 
 1. If you haven't already, download the data file from Step 1:  
 tutorialdata.zip
@@ -115,7 +115,21 @@ tutorialdata.zip
 
 10. Click Submit. Once Splunk has ingested the data, you will receive confirmation that the file was successfully uploaded.
 
+### Perform A Basic Search
+
 ![image](https://github.com/xtiannd/xtiannd.github.io/blob/main/cc9oz1SmRCK3pfm87DcKZQ_dcda39fb68f147469c41a6b9fcb3cbf1_CS_SRQ-006_homepage-with-labels.png)
+
+1. Navigate to Splunk Home. (To return to Splunk Home, click the Splunk Cloud logo on the Splunk Cloud page.)
+
+1. Click Search & Reporting. You may close any pop ups that appear.
+
+1. In the search bar,  enter your search query:
+index=main
+This search term specifies the index. An index is a repository for data. Here, the index is a single dataset containing events from an index named main.
+
+1. Select All Time from the time range dropdown to search for all the events across all time.
+
+1. Click the search button. Note that the search button is represented by the magnifying glass icon. Your search should retrieve thousands of events.
 
 > This is a blockquote following a header.
 >
