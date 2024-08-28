@@ -59,6 +59,9 @@ Applied the PASTA threat model framework to launch a sneaker shopping app: Compl
 
 # Python
 
+Practiced writing Python code: Assign Python Variables, create a conditional statement, create loops, Define and call a function, Create more functions, Work with string values, Develop an algorithm, Use regular expressions to find patterns, Import and parse a text file, Update a File.
+
+
 [Update a file through a Python algorithm](https://github.com/xtiannd/xtiannd.github.io/blob/main/Update%20a%20file%20through%20a%20Python%20algorithm.pdf)
 [Debug Python Code](
 
