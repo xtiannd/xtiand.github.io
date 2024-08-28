@@ -15,40 +15,27 @@ There should be whitespace between paragraphs. We recommend including a README, 
 My name is Christian. I am a highly motivated and detail-oriented technical support and cybersecurity professional with a passion for protecting sensitive data and mitigating cyber threats while providing top tier customer support. I am committed to safeguarding company data and maintaining the integrity of digital infrastructures in a forward-thinking organization. I am passionate about staying ahead of the curve in the evolving landscape of cyber threats. I am very eager to bring my knowledge of encryption algorithms and intrusion detection systems to a dynamic cybersecurity team.
 
 
-# Security Audit for Botium Toys
+# Security audit for Botium Toys
 
 Conducted a security audit by implementing the NIST CSF, establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. Implemented PCI DSS, GDPR, SOC type 1, and SOC type2 compliances
 
 [Controls and Compliance Checklist](https://github.com/xtiannd/xtiannd.github.io/blob/main/Controls%20and%20compliance%20checklist.pdf)
 
-# Analyzed Network Layer Communication
+# Use the NIST Cybersecurity Framework to respond to a security incident
 
-Several customers of clients reported that they were not able to access the client company website www.yummyrecipesforme.com, and saw the error “destination port unreachable” after waiting for the page to load. 
+I am a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. The organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
 
-I was tasked with analyzing the situation and determining which network protocol was affected during this incident. To start, I attempted to visit the website and also received the error “destination port unreachable.” To troubleshoot the issue, I loaded my network analyzer tool, tcpdump, and attempt to load the webpage again. To load the webpage, my browser sends a query to a DNS server via UDP to retrieve the IP address for the website's domain name. It uses this IP address as the destination IP for sending an HTTPS request to the web server to display the webpage  The analyzer shows that when you send UDP packets to the DNS server, you receive ICMP packets containing the error message: “udp port 53 unreachable.” 
+During the attack, the organization’s network services suddenly stopped responding due to an incoming flood of ICMP packets. Normal internal network traffic could not access any network resources. The incident management team responded by blocking incoming ICMP packets, stopping all non-critical network services offline, and restoring critical network services. 
 
-![image](LKXsnNIhT0e1mAz5AEvxog_d363c94e0a4f4a8b90b0be403f6ee1f1_mMBaLWLyXG2omYBcSdjuR8y5_S59zow1ZEPYdjNyJzA1B0r55nI9KmDosI8QHXcEwE51NxM3N5gNtMgSOyVDHyJVLZvZA7_jJtkzUKfxuqFUJPHs57vVVES-LbG5teR8eir4idaqsxFaYJhhVJZn-a_S-txb7zQNIZq07XESgSkqDHuzfvALfYk3.png)
+The company’s cybersecurity team then investigated the security event. They found that a malicious actor had sent a flood of ICMP pings into the company’s network through an unconfigured firewall. This vulnerability allowed the malicious attacker to overwhelm the company’s network through a distributed denial of service (DDoS) attack. 
 
-In the DNS and ICMP log, I found the following information: 
+To address this security event, the network security team implemented: 
+- A new firewall rule to limit the rate of incoming ICMP packets
+- Source IP address verification on the firewall to check for spoofed IP addresses on incoming ICMP packets
+- Network monitoring software to detect abnormal traffic patterns
+- An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
-1. The first two lines of the log file show the initial outgoing request from your computer to the DNS server requesting the IP address of yummyrecipesforme.com. This request is sent in a UDP packet.
-
-1. The second and third lines of the log show the response to your UDP packet. In this case, the ICMP 203.0.113.2 line is the start of the error message indicating that the UDP packet was undeliverable to port 53 of the DNS server.
-
-1. In front of each request and response, you find timestamps that indicate when the event happened. In the log, this is the first sequence of numbers displayed: 13:24:32.192571. This means the time is 1:24 p.m., 32.192571 seconds.
-
-1. After the timestamps, you will find the source and destination IP addresses. In the first line, where the UDP packet travels from your browser to the DNS server, this information is displayed as: 192.51.100.15.52444 > 203.0.113.2.domain. The IP address to the left of the greater than (>) symbol is the source address, which in this example is your computer’s IP address. The IP address to the right of the greater than (>) symbol is the destination IP address. In this case, it is the IP address for the DNS server: 203.0.113.2.domain
-
-1. After the source and destination IP addresses, there can be a number of additional details like the protocol, port number of the source, and flags. In the first line of the error log, the query identification number appears as: 35084. The plus sign after the query identification number indicates there are flags associated with the UDP message. The "A?" indicates a flag associated with the DNS request for an A record, where an A record maps a domain name to an IP address. The third line displays the protocol of he response message to the browser: "ICMP," which is followed by an ICMP error message
-
-1. The error message, "udp port 53 unreachable" is mentioned in the last line. Port 53 is a port for DNS service. The word "unreachable" in the message indicates the UDP message requesting an IP address for the domain "www.yummyrecipesforme.com" did not go through to the DNS server because no service was listening on the receiving DNS port.
-
-1. The remaining lines in the log indicate that ICMP packets were sent two more times, but the same delivery error was received both times.
-
-My follow up report: 
-
-[Cybersecurity Incident Report](https://github.com/xtiannd/xtiannd.github.io/blob/main/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf)
-
+As a cybersecurity analyst, I was tasked with using this security event to create a plan to improve the company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). I used the CSF to help navigate through the different steps of analyzing this cybersecurity event and integrate my analysis into a general security strategy. 
 
 
 
