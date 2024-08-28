@@ -49,7 +49,9 @@ Analyzed a vulnerable system for a small business and used NIST SP 800-30 Rev. 1
 
 Documented incidents with an incident handler's journal: Documented a ransomware incident, analyzed a packet capture file using WireShark, used tcpdump to capture and analyze network traffic, Used VirusTotal to investigate a suspicious file hash. 
 
-[Completed Incident Handler's Journal](
+[Completed Incident Handler's Journal](https://github.com/xtiannd/xtiannd.github.io/blob/main/Completed%20incident%20handler's%20journal%20.pdf)
+
+
 
 
 
