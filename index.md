@@ -64,6 +64,7 @@ Practiced writing Python code: Assign Python Variables, create a conditional sta
 
 [Update a file through a Python algorithm](https://github.com/xtiannd/xtiannd.github.io/blob/main/Update%20a%20file%20through%20a%20Python%20algorithm.pdf)
 
+[Create A Conditional Statement](
 [Debug Python Code](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar%20-%20Debug%20Python%20code.pdf)
 
 [Assign Python Variables](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Assign%20Python%20variables.pdf)
@@ -83,6 +84,7 @@ Practiced writing Python code: Assign Python Variables, create a conditional sta
 [Use Regular Expressions To Find Patters](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Use%20regular%20expressions%20to%20find%20patterns.pdf)
 
 [Work With Strings in Python](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Work%20with%20strings%20in%20Python.pdf)
+
 
 
 
