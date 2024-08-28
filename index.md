@@ -45,6 +45,12 @@ Analyzed a vulnerable system for a small business and used NIST SP 800-30 Rev. 1
 
 [Vulnerable Assessment Report](https://github.com/xtiannd/xtiannd.github.io/blob/main/Vulnerability%20assessment%20report%20.pdf)
 
+# Incident Documentation 
+
+Documented incidents with an incident handler's journal: Documented a ransomware incident, analyzed a packet capture file using WireShark, used tcpdump to capture and analyze network traffic, Used VirusTotal to investigate a suspicious file hash. 
+
+
+
 
 
 
