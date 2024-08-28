@@ -60,6 +60,7 @@ Applied the PASTA threat model framework to launch a sneaker shopping app: Compl
 # Python
 
 [Update a file through a Python algorithm](https://github.com/xtiannd/xtiannd.github.io/blob/main/Update%20a%20file%20through%20a%20Python%20algorithm.pdf)
+[Debug Python Code](
 
 
 
