@@ -43,7 +43,11 @@ In the DNS and ICMP log, I found the following information:
 
 1. The error message, "udp port 53 unreachable" is mentioned in the last line. Port 53 is a port for DNS service. The word "unreachable" in the message indicates the UDP message requesting an IP address for the domain "www.yummyrecipesforme.com" did not go through to the DNS server because no service was listening on the receiving DNS port.
 
-1. The remaining lines in the log indicate that ICMP packets were sent two more times, but the same delivery error was received both times. 
+1. The remaining lines in the log indicate that ICMP packets were sent two more times, but the same delivery error was received both times.
+
+My follow up report: 
+
+
 
 
 > This is a blockquote following a header.
