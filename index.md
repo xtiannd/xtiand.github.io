@@ -115,6 +115,7 @@ tutorialdata.zip
 
 10. Click Submit. Once Splunk has ingested the data, you will receive confirmation that the file was successfully uploaded.
 
+![image](https://github.com/xtiannd/xtiannd.github.io/blob/main/cc9oz1SmRCK3pfm87DcKZQ_dcda39fb68f147469c41a6b9fcb3cbf1_CS_SRQ-006_homepage-with-labels.png)
 
 > This is a blockquote following a header.
 >
