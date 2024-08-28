@@ -57,6 +57,10 @@ Applied the PASTA threat model framework to launch a sneaker shopping app: Compl
 
 [PASTA Worksheet](https://github.com/xtiannd/xtiannd.github.io/blob/main/PASTA%20worksheet%20.pdf)
 
+# Python
+
+[Update a file through a Python algorithm](
+
 
 
 
