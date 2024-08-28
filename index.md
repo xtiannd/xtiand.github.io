@@ -47,6 +47,9 @@ In the DNS and ICMP log, I found the following information:
 
 My follow up report: 
 
+[Cybersecurity Incident Report]
+
+
 
 
 
