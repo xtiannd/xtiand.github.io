@@ -139,6 +139,24 @@ For each event the fields are host, source, and sourcetype. Under SELECTED FIELD
 
 ![image](https://github.com/xtiannd/xtiannd.github.io/blob/main/b-LM5OKBQRecaBKlhE8u4A_10aa13c3ffe64074b8fc019a33cd2cf1_8I5gN09dzpvkvx9AjDfkxZmJ62cOmcJyN4F-fxT0XfU3fHWId7Sf5HLokjN5n8vdQSxBLPvzQmk24uXoj-5T_Egb2EwAgAhY4dpRhRvoUy5D0x7gcfLb7SMpx9aBWso7RW8xG3tl0Jge_VMBuesFp7bPkB3dCqBm1N9Z36HCce21zwEvvdNyxNfg.png)
 
+Examine the field values by clicking on the field under SELECTED FIELDS. You should observe the following:
+
+host: The host field specifies the name of the network host from which the event originated. In this search there are five hosts:
+
+ -mailsv - Buttercup Games' mail server. Examine events generated from this host.
+
+ -www1 - This is one of Buttercup Games' web applications.
+
+ -www2 - This is one of Buttercup Games' web applications.
+
+ -www3 - This is one of Buttercup Games' web applications.
+
+ -vendor_sales - Information about Buttercup Games' retail sales.
+
+source: The source field indicates the file name from which the event originates. You should identify eight sources. Notice /mailsv/secure.log, which is a log file that contains information related to authentication and authorization attempts on the mail server.
+
+sourcetype: The sourcetype determines how data is formatted. You should observe three sourcetypes. Examine secure-2.
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
