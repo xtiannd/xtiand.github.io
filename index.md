@@ -31,7 +31,7 @@ Used the NIST CSF to respond to a DDoS attack through a flood of incoming ICMP p
 
 Used Linux commands to changed multiple permissions to match the level of authorization the organization wanted for files and directories in the projects directory. The first step in this was using ls -la to check the permissions for the directory. This informed my decisions in the following steps. I then used the chmod command multiple times to change the permissions on files and directories.
 
-[File Permissions in Linux](
+[File Permissions in Linux](https://github.com/xtiannd/xtiannd.github.io/blob/main/File%20permissions%20in%20Linux%20.pdf)
 
 
 
