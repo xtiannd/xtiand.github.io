@@ -104,9 +104,13 @@ tutorialdata.zip
 1. Click the Review button and review the details of the upload before you submit. The details should be as follows: 
 
 Input Type: Uploaded File
+
 File Name: tutorialdata.zip
+
 Source Type: Automatic
+
 Host: Source path segment number: 1 
+
 Index: Default
 
 1. Click Submit. Once Splunk has ingested the data, you will receive confirmation that the file was successfully uploaded.
