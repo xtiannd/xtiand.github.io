@@ -133,6 +133,12 @@ This search term specifies the index. An index is a repository for data. Here, t
 
 ![image](https://github.com/xtiannd/xtiannd.github.io/blob/main/t-w-qDeCQmOMDMXZRUz8Lw_8ceeb7ac61d7471c9ead6a03d17e5cf1_CS_SRQ-006_search.png)
 
+### Evaluate The Fields 
+
+For each event the fields are host, source, and sourcetype. Under SELECTED FIELDS, examine the same fields.
+
+![image](
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
