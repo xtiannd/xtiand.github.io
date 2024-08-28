@@ -21,7 +21,7 @@ Conducted a security audit by implementing the NIST CSF, establishing an audit s
 
 [Controls and Compliance Checklist](https://github.com/xtiannd/xtiannd.github.io/blob/main/Controls%20and%20compliance%20checklist.pdf)
 
-# Used the NIST Cybersecurity Framework to respond to a security incident
+# NIST Cybersecurity Framework 
 
 Used the NIST CSF to respond to a DDoS attack through a flood of incoming ICMP packets. Implemented a new firewall rule to limit the rate of incoming ICMP packets and an IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics.
 
@@ -33,7 +33,7 @@ Used Linux commands to changed multiple permissions to match the level of author
 
 [File Permissions in Linux](https://github.com/xtiannd/xtiannd.github.io/blob/main/File%20permissions%20in%20Linux%20.pdf)
 
-# Filters to SQL Queries
+# SQL
 
 Applied filters to SQL queries to get specific information on login attempts and employee machines. I used two different tables, log_in_attempts and employees. I used the AND, OR, and NOT operators to filter for the specific information needed for each task. I also used LIKE and the percentage sign (%) wildcard to filter for patterns.
 
@@ -71,7 +71,7 @@ Practiced writing Python code: Assign Python Variables, create a conditional sta
 
 [Create More Functions](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Create%20more%20functions.pdf)
 
-[Work With Strings Values](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Work%20with%20strings%20in%20Python.pdf)
+[Work With String Values](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Work%20with%20strings%20in%20Python.pdf)
 
 [Develop An Algorithm](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Develop%20an%20algorithm.pdf)
 
@@ -81,7 +81,7 @@ Practiced writing Python code: Assign Python Variables, create a conditional sta
 
 [Import And Parse A Text File](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Import%20and%20parse%20a%20text%20file.pdf)
 
-[Update a file through a Python algorithm](https://github.com/xtiannd/xtiannd.github.io/blob/main/Update%20a%20file%20through%20a%20Python%20algorithm.pdf)
+[Update A File](https://github.com/xtiannd/xtiannd.github.io/blob/main/Update%20a%20file%20through%20a%20Python%20algorithm.pdf)
 
 [Debug Python Code](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar%20-%20Debug%20Python%20code.pdf)
 
