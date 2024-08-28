@@ -81,6 +81,35 @@ Practiced writing Python code: Assign Python Variables, create a conditional sta
 
 Performed a query with Splunk: Upload sample log data, Search through indexed data, evaluate search results, identify different data sources, Locate failed SSH login(s) for the root account.
 
+### Upload Sample Log Data
+
+1. If you haven't already, download the data file from Step 1:  
+tutorialdata.zip
+. Click the link then click the download icon. Do not uncompress the file.
+
+1. Navigate to Splunk Home from your Splunk Cloud free trial instance. You might need to log in again using your credentials from Step 3.
+
+1. On the Splunk bar, click Settings. Then click the Add Data icon.
+
+1. Click Upload.
+
+1. Click the Select File button.
+
+1. Upload the tutorialdata.zip file, and click Open.
+
+1. Click the Next button to continue to Input Settings.
+
+1. By the Host section, select Segment in path and enter 1 as the segment number.
+
+1. Click the Review button and review the details of the upload before you submit. The details should be as follows: 
+
+Input Type: Uploaded File
+File Name: tutorialdata.zip
+Source Type: Automatic
+Host: Source path segment number: 1 
+Index: Default
+
+1. Click Submit. Once Splunk has ingested the data, you will receive confirmation that the file was successfully uploaded.
 
 
 > This is a blockquote following a header.
