@@ -47,7 +47,7 @@ In the DNS and ICMP log, I found the following information:
 
 My follow up report: 
 
-[Cybersecurity Incident Report]
+[Cybersecurity Incident Report](https://github.com/xtiannd/xtiannd.github.io/blob/main/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf)
 
 
 
