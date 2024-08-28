@@ -63,15 +63,25 @@ Practiced writing Python code: Assign Python Variables, create a conditional sta
 
 
 [Update a file through a Python algorithm](https://github.com/xtiannd/xtiannd.github.io/blob/main/Update%20a%20file%20through%20a%20Python%20algorithm.pdf)
+
 [Debug Python Code](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar%20-%20Debug%20Python%20code.pdf)
+
 [Assign Python Variables](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Assign%20Python%20variables.pdf)
+
 [Develop An Algorithm](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Develop%20an%20algorithm.pdf)
+
 [Create Another Algorithm](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Create%20another%20algorithm.pdf)
+
 [Create Loops](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Create%20loops.pdf)
+
 [Define And Call A Function](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Define%20and%20call%20a%20function.pdf)
+
 [Create More Functions](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Create%20more%20functions.pdf)
+
 [Import And Parse A Text File](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Import%20and%20parse%20a%20text%20file.pdf)
+
 [Use Regular Expressions To Find Patters](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Use%20regular%20expressions%20to%20find%20patterns.pdf)
+
 [Work With Strings in Python](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Work%20with%20strings%20in%20Python.pdf)
 
 
