@@ -13,51 +13,6 @@ Conducted a security audit by implementing the NIST CSF, establishing an audit s
 
 [Controls and Compliance Checklist](https://github.com/xtiannd/xtiannd.github.io/blob/main/Controls%20and%20compliance%20checklist.pdf)
 
-![Meme](https://github.com/xtiannd/xtiannd.github.io/blob/main/SOC2%20meme%20.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # NIST Cybersecurity Framework 
 
 Used the NIST CSF to respond to a DDoS attack through a flood of incoming ICMP packets. Implemented a new firewall rule to limit the rate of incoming ICMP packets and an IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics.
@@ -102,7 +57,7 @@ Practiced writing Python code: Assign Python Variables, create a conditional sta
 
 [Create A Conditional Statement](https://github.com/xtiannd/xtiannd.github.io/blob/main/LAB_Exemplar_CreateAConditionalStatement.pdf)
 
-[Create Loops](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Create%20loops.pdf)     ![Meme](https://github.com/xtiannd/xtiannd.github.io/blob/main/arrival-meme.png)
+[Create Loops](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Create%20loops.pdf)     
 
 [Define And Call A Function](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Define%20and%20call%20a%20function.pdf)
 
