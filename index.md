@@ -15,6 +15,39 @@ Conducted a security audit by implementing the NIST CSF, establishing an audit s
 
 ![Meme](https://github.com/xtiannd/xtiannd.github.io/blob/main/SOC2%20meme%20.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # NIST Cybersecurity Framework 
 
 Used the NIST CSF to respond to a DDoS attack through a flood of incoming ICMP packets. Implemented a new firewall rule to limit the rate of incoming ICMP packets and an IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics.
