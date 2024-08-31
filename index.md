@@ -102,7 +102,7 @@ Practiced writing Python code: Assign Python Variables, create a conditional sta
 
 [Create A Conditional Statement](https://github.com/xtiannd/xtiannd.github.io/blob/main/LAB_Exemplar_CreateAConditionalStatement.pdf)
 
-[Create Loops](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Create%20loops.pdf)
+[Create Loops](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Create%20loops.pdf)     ![Meme](https://github.com/xtiannd/xtiannd.github.io/blob/main/arrival-meme.png)
 
 [Define And Call A Function](https://github.com/xtiannd/xtiannd.github.io/blob/main/Exemplar_Define%20and%20call%20a%20function.pdf)
 
