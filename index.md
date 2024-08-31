@@ -13,6 +13,8 @@ Conducted a security audit by implementing the NIST CSF, establishing an audit s
 
 [Controls and Compliance Checklist](https://github.com/xtiannd/xtiannd.github.io/blob/main/Controls%20and%20compliance%20checklist.pdf)
 
+![Meme] 
+
 # NIST Cybersecurity Framework 
 
 Used the NIST CSF to respond to a DDoS attack through a flood of incoming ICMP packets. Implemented a new firewall rule to limit the rate of incoming ICMP packets and an IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics.
