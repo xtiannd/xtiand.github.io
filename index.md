@@ -13,7 +13,7 @@ Conducted a security audit by implementing the NIST CSF, establishing an audit s
 
 [Controls and Compliance Checklist](https://github.com/xtiannd/xtiannd.github.io/blob/main/Controls%20and%20compliance%20checklist.pdf)
 
-![Meme] 
+![Meme](https://github.com/xtiannd/xtiannd.github.io/blob/main/SOC2%20meme%20.png)
 
 # NIST Cybersecurity Framework 
 
