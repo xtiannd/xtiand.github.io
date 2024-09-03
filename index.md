@@ -12,6 +12,8 @@ Prepared, executed, and reported on audit of subset of NIST SP 800-53 cybersecur
 
 [GRC Analyst Workbook](https://github.com/xtiannd/xtiannd.github.io/blob/main/SIMPLY%20CYBER%20GRC%20ANALYST%20WORKBOOK.xlsx%20-%20SP%20800-53%20Revision%205.pdf)
 
+[Alaska MP Security Policy - Pg 68-70](https://github.com/xtiannd/xtiannd.github.io/blob/main/State%20of%20Alaska%20Health%20and%20Social%20Services%20MP.pdf)
+
 # Security Audit for Botium Toys
 
 Conducted a security audit by implementing the NIST CSF, establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. Implemented PCI DSS, GDPR, SOC type 1, and SOC type 2 compliances
