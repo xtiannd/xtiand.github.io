@@ -10,7 +10,7 @@ My name is Christian. I am a highly motivated and detail-oriented technical supp
 
 Prepared, executed, and reported on audit of subset of NIST SP 800-53 cybersecurity controls to include interview, document review, and testing of systems to support compliance audit activities.
 
-[GRC Analyst Workbook]
+[GRC Analyst Workbook](https://github.com/xtiannd/xtiannd.github.io/blob/main/SIMPLY%20CYBER%20GRC%20ANALYST%20WORKBOOK.xlsx%20-%20SP%20800-53%20Revision%205.pdf)
 
 # Security Audit for Botium Toys
 
