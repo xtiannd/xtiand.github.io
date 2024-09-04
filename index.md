@@ -8,7 +8,7 @@ My name is Christian. I am a highly motivated and detail-oriented technical supp
 
 # Media Protection Audit for State of Alaska Health and Social Services
 
-Prepared, executed, and reported on audit of subset of NIST SP 800-53 cybersecurity controls to include interview, document review, and testing of systems to support compliance audit activities.
+Prepared, executed, and reported on audit of subset of NIST SP 800-53 cybersecurity controls to include interview, document review, and testing of systems to support compliance audit activities. Semi-quantitatively analyzed cybersecurity risk using NIST SP 800-30 methodology to identify highest risk weaknesses for a system. Executed threat modeling exercise to determine higher likelihood threat events to inform cybersecurity risk modeling.
 
 [GRC Analyst Workbook](https://github.com/xtiannd/xtiannd.github.io/blob/main/SIMPLY%20CYBER%20GRC%20ANALYST%20WORKBOOK.xlsx%20-%20SP%20800-53%20Revision%205.pdf)
 
