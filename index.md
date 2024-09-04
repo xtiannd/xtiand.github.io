@@ -26,18 +26,6 @@ Used the NIST CSF to respond to a DDoS attack through a flood of incoming ICMP p
 
 [Incident Report Analysis](https://github.com/xtiannd/xtiannd.github.io/blob/main/Incident%20report%20analysis%20.pdf)
 
-# Linux Commands
-
-Used Linux commands to changed multiple permissions to match the level of authorization the organization wanted for files and directories in the projects directory. The first step in this was using ls -la to check the permissions for the directory. This informed my decisions in the following steps. I then used the chmod command multiple times to change the permissions on files and directories.
-
-[File Permissions in Linux](https://github.com/xtiannd/xtiannd.github.io/blob/main/File%20permissions%20in%20Linux%20.pdf)
-
-# SQL
-
-Applied filters to SQL queries to get specific information on login attempts and employee machines. I used two different tables, log_in_attempts and employees. I used the AND, OR, and NOT operators to filter for the specific information needed for each task. I also used LIKE and the percentage sign (%) wildcard to filter for patterns.
-
-[Apply Filters to SQL Queries](https://github.com/xtiannd/xtiannd.github.io/blob/main/Apply%20filters%20to%20SQL%20queries%20.pdf)
-
 # Vulnerable Assessment
 
 Analyzed a vulnerable system for a small business and used NIST SP 800-30 Rev. 1 to guide the risk analysis of the information system, proposed a remediation strategy such as Principle of least privilege, Defense in depth, MFA, AAA framework.
@@ -55,6 +43,18 @@ Documented incidents with an incident handler's journal: Documented a ransomware
 Applied the PASTA threat model framework to launch a sneaker shopping app: Compliance with PCI-DSS, Defined technologies used by the app (API, PKI, SHA-256, SQL), Used data flow diagram to decompose the app, Threat Analysis (Injection and Session hijacking), Vulnerability Analysis (Lack of prepared statements, Broken API token), Used Attack Tree Diagram for Attack Modeling, Risk Analysis and Impact (SHA-256, Incident Response Procedures, Password Policy, Principle of Least Privilege).
 
 [PASTA Worksheet](https://github.com/xtiannd/xtiannd.github.io/blob/main/PASTA%20worksheet%20.pdf)
+
+# Linux Commands
+
+Used Linux commands to changed multiple permissions to match the level of authorization the organization wanted for files and directories in the projects directory. The first step in this was using ls -la to check the permissions for the directory. This informed my decisions in the following steps. I then used the chmod command multiple times to change the permissions on files and directories.
+
+[File Permissions in Linux](https://github.com/xtiannd/xtiannd.github.io/blob/main/File%20permissions%20in%20Linux%20.pdf)
+
+# SQL
+
+Applied filters to SQL queries to get specific information on login attempts and employee machines. I used two different tables, log_in_attempts and employees. I used the AND, OR, and NOT operators to filter for the specific information needed for each task. I also used LIKE and the percentage sign (%) wildcard to filter for patterns.
+
+[Apply Filters to SQL Queries](https://github.com/xtiannd/xtiannd.github.io/blob/main/Apply%20filters%20to%20SQL%20queries%20.pdf)
 
 # Python
 
